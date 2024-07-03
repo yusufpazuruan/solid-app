@@ -40,7 +40,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={cn(
-          `min-h-screen bg-background antialiased theme-orange`,
+          `min-h-screen bg-background theme-orange`,
           geistSans.variable,
           geistMono.variable,
           poppins.variable
